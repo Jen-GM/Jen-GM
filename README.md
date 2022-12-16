@@ -1,8 +1,8 @@
-## Hello, World! Jen here!  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="10px" height="20px">
+## Hello, World! Jen here!  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28px" height="28px">
 
 <h1>Welcome to my developer world..</h1> 
 
-<img src = 'https://github.com/Jen-GM/Jen-GM/blob/main/cat-wave.gif' alt = 'Cat Waving' align='right'/>
+<img src = 'https://github.com/Jen-GM/Jen-GM/blob/main/cat-wave.gif' alt = 'Cat Waving' width="320px" height="350px" align='right'/>
 
 [![Linkedin Badge](https://img.shields.io/badge/-jengm9-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/jen-gm9/)](https://www.linkedin.com/in/jen-gm9/) [![Gmail Badge](https://img.shields.io/badge/-jen.gonzalez.mu@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:jen.gonzalez.mu@gmail.com)](mailto:jen.gonzalez.mu@gmail.com)
 
