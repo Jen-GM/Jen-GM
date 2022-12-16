@@ -26,7 +26,7 @@
  ```python
  class WhoAmI:
  	name = 'Jen González Muñoz'
-		current_work = 'Support analyst, but wanting to work writing code'
+		current_work = 'Support analyst, but looking to work writing code'
 		hobbies = [
 				'Reading',
 				'Watching Series',
