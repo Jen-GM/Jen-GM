@@ -31,6 +31,7 @@
 		current_work = 'Support analyst, but looking to work writing code'
 		hobbies = [
 				'Reading',
+			        'Exercising',
 				'Watching Series',
 				'Reading Sci-Fi Novels'
 				'Playing Open World video games. When there's time...'
@@ -41,7 +42,6 @@
 	
 	def Ambitions():
 		ToGetMyFirstJobAsADeveloper()
-		ToLearnHowToPlayGuitar()
 		ToTravelAroundTheWorld()
 		# Assume 10 more awesome ambitions here  ;)
 	
